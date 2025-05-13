@@ -3,7 +3,7 @@ package entity;
 import java.io.Serializable;
 import jakarta.persistence.*;
 
-@Entity
+
 @Table(name = "TB_Endereco")
 public class Endereco implements Serializable {
 

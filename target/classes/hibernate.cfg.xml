@@ -31,6 +31,7 @@
         <mapping class="entity.Usuario"/>
         <mapping class="entity.Endereco"/>
         <mapping class="entity.Pessoa"/>
-        <mapping class="entity.Endereco"/>
+        <mapping class="entity.Departamento"/>
+        <mapping class="entity.Funcionario"/>
     </session-factory>
 </hibernate-configuration>
