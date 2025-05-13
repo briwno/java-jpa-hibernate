@@ -30,5 +30,7 @@
         <!-- Entities -->
         <mapping class="entity.Usuario"/>
         <mapping class="entity.Endereco"/>
+        <mapping class="entity.Pessoa"/>
+        <mapping class="entity.Endereco"/>
     </session-factory>
 </hibernate-configuration>

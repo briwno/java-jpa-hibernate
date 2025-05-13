@@ -1,7 +1,14 @@
 /home/briuno/java-hibernate-facear/java-jpa/src/main/java/app/App.java
-/home/briuno/java-hibernate-facear/java-jpa/src/main/java/service/UsuarioService.java
 /home/briuno/java-hibernate-facear/java-jpa/src/main/java/repository/UsuarioRepository.java
-/home/briuno/java-hibernate-facear/java-jpa/src/main/java/util/TecladoUtil.java
 /home/briuno/java-hibernate-facear/java-jpa/src/main/java/entity/Usuario.java
 /home/briuno/java-hibernate-facear/java-jpa/src/main/java/util/HibernateUtil.java
+/home/briuno/java-hibernate-facear/java-jpa/src/main/java/entity/Endereco.java
+/home/briuno/java-hibernate-facear/java-jpa/src/main/java/app/App2.java
+/home/briuno/java-hibernate-facear/java-jpa/src/main/java/service/EnderecoService.java
+/home/briuno/java-hibernate-facear/java-jpa/src/main/java/repository/PessoaRepository.java
 /home/briuno/java-hibernate-facear/java-jpa/src/main/java/enumeration/OpcaoMenu.java
+/home/briuno/java-hibernate-facear/java-jpa/src/main/java/service/PessoaService.java
+/home/briuno/java-hibernate-facear/java-jpa/src/main/java/service/UsuarioService.java
+/home/briuno/java-hibernate-facear/java-jpa/src/main/java/repository/EnderecoRepository.java
+/home/briuno/java-hibernate-facear/java-jpa/src/main/java/util/TecladoUtil.java
+/home/briuno/java-hibernate-facear/java-jpa/src/main/java/entity/Pessoa.java
